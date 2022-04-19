@@ -24,11 +24,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects
 
-- 🤔 I’m looking for help with anything am currently learning!
-
-- 📫 Reach me Through: ajaykv054@gmail.com 😄
-
-- ⚡ Fun fact:I Always try to learn something new 
+- 📫 Reach me Through: anandmpatil1997@gmail.com 😄 
 
 
 
@@ -40,11 +36,11 @@
 ## Connect with me:-
 <p align="left">
 
-<a href="https://twitter.com/ajay_k_vishwa" target="_blank" rel="noopener">
-  <img align="left" alt="Ajay Vishwakarma" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
+<a href="https://twitter.com/AnandPa24663395?s=08" target="_blank" rel="noopener">
+  <img align="left" alt="Anand Patil" | Twitter" width="50px" color="blue" src="https://img.icons8.com/fluency/344/twitter.png" />
 </a>
  
-<a href="https://www.linkedin.com/in/ajay-vishwakarma-57a20a217/" target="_blank" rel="noopener" >
+<a href="https://www.linkedin.com/in/anand-patil-17166b204" target="_blank" rel="noopener" >
   <img align="left" alt="Ajay vishwakarma" width="50px" src="https://img.icons8.com/nolan/2x/linkedin.png" />
 </a>
 
