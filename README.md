@@ -97,15 +97,15 @@
 </br>
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ajaykvishwakarma&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anandmpatil1997&theme=radical) 
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaykvishwakarma&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ajaykvishwakarma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandmpatil1997&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anandmpatil1997/github-readme-stats)
 
 </br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ajaykvishwakarma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anandmpatil1997)](https://github.com/ryo-ma/github-profile-trophy)
 
 </br>
 
@@ -116,7 +116,7 @@
 <br/>
 <br/>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ajaykvishwakarma&theme=gruvbox&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=anandmpatil1997&theme=gruvbox&hide_border=true&area=true)
 <br/>
 <br/>
 
