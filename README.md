@@ -53,10 +53,9 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://levi-s-in.vercel.app" target="_blank" rel="noopener"><img src="https://www.freepnglogos.com/uploads/best-buy-png-logo/best-buy-png-logo-vector-0.png" alt="Best Buy" width="150px" height="50px"/></a>
-<a href="https://competent-bardeen-b9ae59.netlify.app/" target="_blank" rel="noopener"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
-<a href="https://leviwithbackend.herokuapp.com" target="_blank" rel="noopener" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
-</p>
+<a href="https://merry-kitten-8e2680.netlify.app/" target="_blank" rel="noopener"><img src="https://www.freepnglogos.com/uploads/best-buy-png-logo/best-buy-png-logo-vector-0.png" alt="Best Buy" width="150px" height="80px"/></a>
+<a href="https://competent-bardeen-b9ae59.netlify.app/" target="_blank" rel="noopener"><img src="https://1000logos.net/wp-content/uploads/2020/07/SUGAR-Cosmetics-Logo.jpg" alt="Sugar Cosmetics" width="200px" height="70px" /></a>
+
 
 </br>
 </br>
