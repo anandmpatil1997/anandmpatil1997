@@ -91,7 +91,7 @@
 </br>
 
 ## 📊 My Github Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandmpatil1997&hide=contribs,prs)
 
 
 </br>
