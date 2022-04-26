@@ -53,7 +53,7 @@
 ## Interested on my top projects?
 
 <p>
-<a href="https://levi-s-in.vercel.app" target="_blank" rel="noopener"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="pantaloons" width="150px" height="50px"/></a>
+<a href="https://levi-s-in.vercel.app" target="_blank" rel="noopener"><img src="https://pisces.bbystatic.com/image2/BestBuy_US/Gallery/BestBuy_Logo_2020-190616.png" alt="pantaloons" width="150px" height="50px"/></a>
 <a href="https://competent-bardeen-b9ae59.netlify.app/" target="_blank" rel="noopener"><img src="https://in.sugarcosmetics.com/Footer_sugar_icon.png" alt="Best Buy" width="150px" height="50px" /></a>
 <a href="https://leviwithbackend.herokuapp.com" target="_blank" rel="noopener" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1ZhahsN2kCuQ2K9yX4lneKX2sJCymKH8fDg&usqp=CAU" alt="Cult Fit"  width="150px" height="50px" /></a>
 </p>
