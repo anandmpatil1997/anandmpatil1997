@@ -92,7 +92,7 @@
 
 ## 📊 My Github Stats
 
-![Ajay GitHub stats](https://github-readme-stats.vercel.app/api?username=Anand Patil&show_icons=true&theme=radical) 
+
 
 </br>
 
